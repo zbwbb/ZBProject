@@ -37,8 +37,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "Copyright (c) 2015年 zhoubin. All rights reserved."
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  # s.license      = "Copyright (c) 2015年 zhoubin. All rights reserved."
+  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
